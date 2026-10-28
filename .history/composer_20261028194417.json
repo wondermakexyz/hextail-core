@@ -1,0 +1,11 @@
+{
+    "name": "hextail/core",
+    "description": "Hextail's core: a self-hosted CMS for single-page apps, by Wondermake. In development, with the first public release planned for 2027.",
+    "type": "library",
+    "keywords": ["hextail", "cms", "spa", "php", "sqlite"],
+    "homepage": "https://hextail.com",
+    "license": "MIT",
+    "authors": [
+        { "name": "Wondermake", "homepage": "https://wondermake.xyz" }
+    ]
+}
